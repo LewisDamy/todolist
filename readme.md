@@ -3,7 +3,7 @@
 This is an Complex Todo List, that allows users to:
 - SignUp
 - SignIn
-- Create hashed passwords
+- Create hashed passwords [bcrypt](https://pypi.org/project/bcrypt/)
 - Use in memory repository
   
 Besides of course the roots of an TodoList:
