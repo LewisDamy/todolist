@@ -1,4 +1,4 @@
-# A Todo List overengineered
+# OVER-ENGINEERING a TODO List ...
 
 This is an Complex Todo List, that allows users to:
 - SignUp
@@ -16,7 +16,7 @@ Besides of course the roots of an TodoList:
 
 All of that has been done in order to get a deep understading of:
 - Oriented Object Programming
-- Test Driven Development (TDD) with help of PyTest
+- Test Driven Development ([TDD](https://en.wikipedia.org/wiki/Test-driven_development)) with help of [PyTest](https://docs.pytest.org/en/7.2.x/)
 
 
 
